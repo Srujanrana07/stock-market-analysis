@@ -32,5 +32,4 @@ To run this project, you will need Python 3.x and the following Python libraries
 
 You can install the required libraries by running:
 
-```bash
-pip install -r requirements.txt
+

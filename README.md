@@ -130,4 +130,4 @@ print(f"R2 Score: {r2}")
 This project demonstrates how machine learning models can be utilized to predict stock prices. While predictions are never 100% accurate, these techniques can provide valuable insights into market trends and assist in decision-making.
 
 ## contributer
-![srujan rana](https://github.com/Srujanrana07)
+[srujan rana](https://github.com/Srujanrana07)
